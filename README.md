@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4yOXFycml5ZzJ6bmN5em55ZDB3bnFudzdhbTIxMHpzdXZhcXhxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif" alt="Header" width="70%" />
-</h1>
+
 
 <h1 align="center">Hi 👋, I'm Emirhan Navdar</h1>
 <h3 align="center">💻 Developer | 🎓 Computer Engineering Student | 📍 Turkey</h3>
