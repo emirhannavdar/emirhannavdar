@@ -14,8 +14,6 @@
 
 💬 Ask me about **Python, AI integrations, backend development, MCP, automation, or Modbus/TCP**.
 
-📫 How to reach me: **[Website](https://emirhannavdar.lovable.app/) · [LinkedIn](#)**
-
 ## Languages & Tools
 
 **Python · Java · C# · JavaScript**
