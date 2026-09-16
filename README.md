@@ -14,18 +14,6 @@
 
 💬 Ask me about **Python, AI integrations, backend development, MCP, automation, or Modbus/TCP**.
 
-## Languages & Tools
-
-**Python · Java · C# · JavaScript**
-
-**OpenAI · Google Gemini · MCP · LangChain**
-
-**Flask · FastAPI · Streamlit · n8n**
-
-**PostgreSQL · Redis · Docker · Git**
-
-**Modbus/TCP · PyModbus**
-
 ## Featured Work
 
 🔌 **Modbus PLC Simulator** — Python-based PLC and Modbus/TCP process simulation.
