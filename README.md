@@ -29,198 +29,162 @@
 For more information about my projects, experience, and current work, visit my **[personal website](https://emirhannavdar.lovable.app/)**.
 
 
-<!---
-<div align="center">
+&#x20;\<div align="center">
 
-# Hi, I'm Md Abu Kayser 👋
+# Hi, I'm Emirhan Navdar 👋
 
-### Full-Stack Engineer | React · Next.js · Node.js · Go · TypeScript
+### Software Developer | Energy Systems · Python · FastAPI · SCADA
 
-I build clean, type-safe, production-ready applications - and I'm currently open to **remote roles across the US, Canada, and the EU**.
+I build software solutions for energy management, industrial automation, and data-driven systems.
 
-<img src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social" alt="followers" />
+Currently focusing on **SCADA architectures, renewable energy forecasting, battery energy storage systems (BESS), and backend development.**
 
-</div>
+\
+
+
+\</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm rebuilding my engineering path through focused, production-minded work: open-source contributions, real deployed projects, and clean documented code — the kind of evidence that speaks louder than a resume.
+I'm a Computer Engineering student and software developer interested in building reliable software solutions that connect technology with real-world engineering problems.
 
-- 🔭 Currently building full-stack apps with **type safety, reliability, and clear architecture** in mind
-- 💬 Ask me about: TypeScript, React, Next.js, Node.js, Go, PostgreSQL, Docker, or API design
-- 💼 Focused on **testable code** (unit + integration), **Dockerized deployments**, and **CI/CD**
-- 🎯 Long-term goal: **Dev** Community Monikers: **Unicorn Developer** | **10x Engineer**
+My primary interests are energy technologies, industrial automation, backend systems, and renewable energy management.
+
+- 🔭 Currently developing **SCADA and Energy Management Systems**
+- ⚡ Working on **Solar Energy Forecasting and Battery Energy Storage Systems (BESS)**
+- 🔌 Exploring industrial communication protocols such as **Modbus TCP and IEC 60870-5-104**
+- 📊 Integrating energy market data through **EPİAŞ APIs**
+- 🌤️ Developing solar production forecasting models using **Python and pvlib**
+- 🛠️ Interested in system architecture, API development, and industrial software solutions
+- 🎯 Goal: Build scalable software that contributes to the future of energy and automation technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma" />
-</div>
+\<div align="center">
 
-| Category           | Technologies                                          |
-| ------------------ | ----------------------------------------------------- |
-| **Frontend**       | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
-| **Backend**        | Node.js, Express, Go, PostgreSQL, MongoDB, Prisma     |
-| **DevOps**         | Docker, GitHub Actions, Vercel, Nginx                 |
-| **Testing & Auth** | Jest, Vitest, Supertest, JWT                          |
+\<img src="[https://skillicons.dev/icons?i=python,fastapi,postgres,js,ts,react,html,css,git,github,docker,vscode](https://skillicons.dev/icons?i=python,fastapi,postgres,js,ts,react,html,css,git,github,docker,vscode)" />
+
+\</div>
+
+### Technologies & Tools
+
+| Category                     | Technologies                                  |
+| ---------------------------- | --------------------------------------------- |
+| **Programming**              | Python, JavaScript, TypeScript                |
+| **Backend Development**      | FastAPI, REST APIs, Pydantic                  |
+| **Frontend Development**     | React, HTML5, CSS3                            |
+| **Databases**                | PostgreSQL, TimescaleDB                       |
+| **Industrial Communication** | Modbus TCP, IEC 60870-5-104                   |
+| **Energy & Data**            | pvlib, Pandas, EPİAŞ API, Visual Crossing API |
+| **Development Tools**        | Git, GitHub, PowerShell, Docker               |
 
 ---
 
 ## 📌 Featured Projects
 
-> Update each repo link and demo URL below once the project is live.
+### ⚡ ScadaWatt – Industrial SCADA System
 
-### 🛒 Full-Stack E-Commerce Platform
+**Stack:** Python · FastAPI · PostgreSQL · Modbus TCP · IEC 60870-5-104
 
-**Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Docker
-A production-style store with authentication, sandbox payments, product admin, and full CI/CD.
+Developing a local SCADA platform for monitoring and managing solar power plants and industrial energy infrastructure.
 
-```bash
-git clone https://github.com/md-abu-kayser/<coming-soon>.git
-cd <coming-soon>
-cp .env.example .env
-docker-compose up --build
-```
+- Real-time monitoring of inverters, transformers, and field equipment.
+- Industrial communication through Modbus TCP and IEC 60870-5-104.
+- Centralized data collection and PostgreSQL-based storage.
+- Interactive electrical single-line diagrams and equipment control.
+- Device status monitoring and energy flow visualization.
 
-### 📊 Admin Dashboard
+### 🔋 GES Energy Storage & Management System
 
-**Stack:** React · TypeScript · Tailwind CSS · Vitest · Storybook
-A component-driven UI with documented components, accessibility support, and unit tests.
+**Stack:** Python · FastAPI · PostgreSQL · EPİAŞ API · pvlib
 
-### 🔐 Auth API
+Developing an energy management and simulation platform for solar power plants integrated with battery energy storage systems.
 
-**Stack:** Go · PostgreSQL · Docker · GitHub Actions
-A performant REST API featuring JWT auth, role-based access control, and automated tests.
+- Solar energy production forecasting.
+- EPİAŞ electricity market price integration.
+- Battery management concepts including SOC, SOH, and DOD.
+- Energy storage and discharge strategy development.
+- Forecast-based energy management and optimization.
+
+### 🌤️ Solar Energy Forecasting
+
+**Stack:** Python · pvlib · Pandas · Visual Crossing API
+
+Developing solar power generation forecasting models using weather data and photovoltaic system parameters.
+
+- Weather data integration.
+- Solar radiation and plane-of-array irradiance calculations.
+- PV power and energy production estimation.
+- Temperature and system performance considerations.
+- Hourly solar production forecasting.
+
+### 💻 Personal Portfolio
+
+**Stack:** Web Technologies · Lovable
+
+My personal portfolio showcasing my software development journey, projects, and technical interests.
+
+🌐 [emirhannavdar.lovable.app](https://emirhannavdar.lovable.app)
 
 ---
 
---->
-
-<div align="center">
-
-  <a href="https://github.com/md-abu-kayser">
-    <img
-      src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6"
-      alt="Profile Views"
-    />
-  </a>
-
-  <a href="https://github.com/md-abu-kayser?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/md-abu-kayser?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717"
-      alt="Followers"
-    />
-  </a>
-
-</div>
-
-<!-- ========================================================= -->
-<!--               GITHUB ENGINEERING STATS                    -->
-<!-- ========================================================= -->
-
 ## 📊 GitHub Engineering Stats
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com/">
-    <img
-      src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
-      alt="GitHub Engineering Streak"
-      width="49%"
-    />
-  </a><img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
-    alt="Technology Footprint"
-    width="49%"
-  />
-</p>
+\<div align="center">
 
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION ANALYTICS                   -->
-<!-- ========================================================= -->
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=emirhannavdar&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=emirhannavdar\&show_icons=true\&theme=github_dark\&hide_border=true)" />
 
-## 📈 Contribution Analytics
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=emirhannavdar&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhannavdar\&layout=compact\&theme=github_dark\&hide_border=true)" />
 
-<p align="center">
-  <a href="https://github.com/md-abu-kayser">
-    <img
-      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=md-abu-kayser&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
-      alt="Md Abu Kayser's GitHub Contribution Analytics"
-      width="98%"
-    />
-  </a>
-</p>
+\</div>
 
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION ACTIVITY                   -->
-<!-- ========================================================= -->
+---
+
+## 📈 Contribution Activity
+
+\<div align="center">
+
+\<img width="98%" src="[https://github-readme-activity-graph.vercel.app/graph?username=emirhannavdar&theme=github-compact&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=emirhannavdar\&theme=github-compact\&hide_border=true\&area=true)" />
+
+\</div>
+
+---
 
 ## 🐍 Contribution Activity
 
-<div align="center">
+\<div align="center">
 
-<picture>
+\<picture>
+&#x20; \<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/emirhannavdar/emirhannavdar/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/emirhannavdar/emirhannavdar/output/github-contribution-grid-snake-dark.svg)" />
+&#x20; \<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/emirhannavdar/emirhannavdar/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/emirhannavdar/emirhannavdar/output/github-contribution-grid-snake.svg)" />
+&#x20; \<img alt="GitHub Contribution Snake" src="[https://raw.githubusercontent.com/emirhannavdar/emirhannavdar/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/emirhannavdar/emirhannavdar/output/github-contribution-grid-snake.svg)" width="100%" />
+\</picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
-  />
-
-<img
-    src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Activity - Last 365 Days"
-    width="100%"
-  />
-
-</picture>
-
-</div>
-
-<!---
-
-## 📊 GitHub Engineering Stats
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=md-abu-kayser&layout=compact&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&cache_seconds=1800"
-    alt="GitHub Engineering Stats"
-  />
-</p>
-
---->
-
-<!---
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abu.kayser.official@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
-
-</div>
-
-Want to collaborate? Open an issue on any repo or reach out directly - I review PRs based on impact and test coverage. Fork, branch as `feat/your-feature`, add tests, and open a PR with a clear description.
+\</div>
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-📄 Licensed under [MIT](./LICENSE) unless otherwise noted per repo.
+\<div align="center">
 
-_Fun fact: I enjoy untangling gnarly coding challenges in my spare time._
 
-</div>
 
---->
+
+
+\</div>
+
+I'm always interested in learning, collaborating, and building meaningful engineering projects, especially in energy technologies, industrial automation, and software development.
+
+---
+
+\<div align="center">
+
+*Building software where engineering meets energy.*
+
+\</div>
+
